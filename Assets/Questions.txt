@@ -1,0 +1,114 @@
+TYPE: MC
+QUESTION: What does mental health involve?
+OPTIONS: Just emotions;Only thoughts;How we think, feel, and handle life;Mental illness
+ANSWER: How we think, feel, and handle life
+
+TYPE: TF
+QUESTION: Being sad means you have a mental illness.
+ANSWER: false
+
+TYPE: MC
+QUESTION: Which is a common mental health challenge?
+OPTIONS: Fever;Anxiety;Diabetes;Allergies
+ANSWER: Anxiety
+
+TYPE: FB
+QUESTION: Intense mood swings can be a sign of ____ disorder.
+ANSWER: bipolar
+
+TYPE: MC
+QUESTION: Which of these is a root cause of mental health issues?
+OPTIONS: Sunlight;Reading;Trauma;Exercise
+ANSWER: Trauma
+
+TYPE: TF
+QUESTION: Genetics and brain chemistry can influence mental health.
+ANSWER: true
+
+TYPE: MC
+QUESTION: Which is a warning sign of mental health trouble?
+OPTIONS: Excitement;Low energy;Good sleep;Socializing
+ANSWER: Low energy
+
+TYPE: MC
+QUESTION: What is a healthy way to manage stress?
+OPTIONS: Bottling it up;Overeating;Deep breathing;Yelling at others
+ANSWER: Deep breathing
+
+TYPE: TF
+QUESTION: All stress is harmful and should be avoided.
+ANSWER: false
+
+TYPE: MC
+QUESTION: Which helps build resilience?
+OPTIONS: Self-criticism;Avoiding emotions;Gratitude;Ignoring problems
+ANSWER: Gratitude
+
+TYPE: MC
+QUESTION: Which is an empathetic thing to say?
+OPTIONS: 'Just get over it';'I’m here for you';'You’re too sensitive';'Stop thinking about it'
+ANSWER: I’m here for you
+
+TYPE: TF
+QUESTION: It's okay to refer someone to a professional if you're unsure how to help.
+ANSWER: true
+
+TYPE: MC
+QUESTION: Who can offer professional mental health support?
+OPTIONS: Friends;YouTubers;Therapists;Neighbors
+ANSWER: Therapists
+
+TYPE: FB
+QUESTION: Talking to a counselor or using a helpline is a form of ____.
+ANSWER: self-care
+
+TYPE: MC
+QUESTION: What is the first step in the ALGEE mental health first aid protocol?
+OPTIONS: Assess risk;Give advice;Encourage self-help;Provide medication
+ANSWER: Assess risk
+
+TYPE: MC
+QUESTION: Which technique involves tensing and relaxing muscle groups?
+OPTIONS: Box breathing;Progressive Muscle Relaxation;Mindfulness;Gratitude journaling
+ANSWER: Progressive Muscle Relaxation
+
+TYPE: TF
+QUESTION: PMR can help release physical tension caused by stress.
+ANSWER: true
+
+TYPE: MC
+QUESTION: What does conscious breathing help activate?
+OPTIONS: Emergency response;Relaxation response;Digestive system;Adrenaline production
+ANSWER: Relaxation response
+
+TYPE: MC
+QUESTION: Box breathing involves which pattern?
+OPTIONS: Inhale 4s - Hold 4s - Exhale 6s;Inhale 6s - Exhale 6s;Inhale 2s - Exhale 2s;Inhale 8s - Hold 8s - Exhale 8s
+ANSWER: Inhale 4s - Hold 4s - Exhale 6s
+
+TYPE: MC
+QUESTION: Where do we typically hold stress from perfectionism?
+OPTIONS: Shoulders;Jaw;Hips;Forehead
+ANSWER: Hips
+
+TYPE: MC
+QUESTION: What might "Unspoken: When Words Aren't Enough" help with?
+OPTIONS: Medication management;Understanding silent struggles;Nutrition planning;Financial budgeting
+ANSWER: Understanding silent struggles
+
+TYPE: TF
+QUESTION: Practicing gratitude can help reframe negative experiences.
+ANSWER: true
+
+TYPE: MC
+QUESTION: Which practice is part of digital wellness?
+OPTIONS: Checking notifications constantly;Setting screen time limits;Scrolling through social media for hours;Using devices in bed
+ANSWER: Setting screen time limits
+
+TYPE: TF
+QUESTION: Digital minimalism encourages intentional use of technology.
+ANSWER: true
+
+TYPE: FB
+QUESTION: The 'L' in ALGEE stands for ____ non-judgmentally.
+ANSWER: Listen

@@ -1,0 +1,156 @@
+Title: 1. Understanding Mental Health
+Description: Mental health is how we think, feel and handle life's challenges. It's a spectrum we all move along daily.
+
+Content:
+KEY PRINCIPLES
+- Wellness isn't absence of struggle
+- We all have mental health
+- Small daily habits make big differences
+
+PRACTICAL APPLICATIONS
+1. Body scan
+2. Mood check-ins
+3. Micro-resets
+
+Icon: Assets/icon/brainicon.png
+Image: Assets/image/Mentalhealthawareness.jpeg
+Audio: Assets/Audio/music for mental health.wav
+---
+Title: 2. Recognizing Mental Health Conditions
+Description: Identifying common mental health disorders
+
+Content:
+COMMON CONDITIONS
+- Depression: Persistent sadness
+- Anxiety: Excessive worry
+- Bipolar: Mood changes
+- OCD: Repetitive thoughts
+
+Icon: Assets/icon/eyeicon.png
+Image: Assets/image/conditionreg.jpg
+Audio: Assets/Audio/music for mental health.wav
+---
+Title: 3. Stress Response System
+Description: Understanding the body's stress mechanisms
+
+Content:
+KEY CONCEPTS
+- Fight-or-flight response
+- Cortisol effects
+- Chronic stress impacts
+
+MANAGEMENT TECHNIQUES
+1. Box breathing
+2. Nature immersion
+3. Movement breaks
+
+Image: Assets/image/stressresponse.jpg
+Audio: Assets/Audio/music for mental health.wav
+---
+Title: 4. Building Resilience
+Description: Developing adaptability during challenges
+
+Content:
+RESILIENCE COMPONENTS
+- Cognitive flexibility
+- Self-efficacy
+- Social support
+
+PRACTICAL TOOLS
+- ABCDE model
+- Gratitude practice
+- Strength identification
+
+Image: Assets/image/resilient.jpg
+Audio: Assets/Audio/music for mental health.wav
+---
+Title: 5. Effective Communication
+Description: Supportive communication methods
+
+Content:
+EVIDENCE-BASED METHODS
+- Validating statements
+- Reflective listening
+- Change-talk elicitation
+
+Icon: Assets/icon/communication.png
+Image: Assets/image/supportive.jpg
+Audio: Assets/Audio/music for mental health.wav
+---
+Title: 6. Digital Wellness
+Description: Balancing technology use for mental health
+
+Content:
+HEALTHY PRACTICES
+- Notification management
+- Screen-free mornings
+- Intentional scrolling
+
+Icon: Assets/icon/techicon.png
+Image: Assets/image/digital.jpg
+Audio: Assets/Audio/music for mental health.wav
+---
+Title: 7. Crisis Response
+Description: Mental health first aid basics
+
+Content:
+ALGEE PROTOCOL
+1. Assess risk
+2. Listen non-judgmentally
+3. Provide reassurance
+4. Encourage professional help
+5. Suggest self-help
+
+Icon: Assets/icon/emergency.png
+Audio: Assets/Audio/music for mental health.wav
+---
+Title: 8. Gratitude Reboot: Seeing Abundance Anew
+Description: Artist Faye lost her sight at 40. Her radical gratitude practice transformed despair.
+
+Content:
+PERSPECTIVE SHIFT
+"Instead of 'I've lost vision', I now celebrate:
+• The velvet texture of my cat's fur
+• Complex symphony of street sounds
+• Sweetness of sun-warmed apricots"
+
+Audio: Assets/Audio/music for mental health.wav
+---
+Title: 9. Unspoken: When Words Aren't Enough
+Description: This silent short film captures what it feels like to suffer quietly and be seen.
+
+Content:
+- Watch the video without distractions
+- Afterwards, journal your reflections
+- Not all healing needs words
+
+Icon: Assets/icon/videoicon.png
+Video: Assets/video/Unspoken.mp4
+Audio: Assets/Audio/music for mental health.wav
+---
+Title: 10. Breathing Space: 1-Minute Mind Reset
+Description: Neuroscientist Dr. Chen explains why breathing is your built-in reset button.
+
+Content:
+Conscious breathing bypasses the emergency alarm - it's like whispering 'Stand down' to your nervous system.
+
+GUIDED EXPERIENCE
+0:00-1:00: Tuning into breath rhythms, relaxing
+
+Video: Assets/video/1 Minute Breathing Exercise.mp4
+---
+Title: 11. Tense & Release: The Body's Stress Reset
+Description: Physical therapist Miguel shares his muscle-mind trick from Olympic athletes.
+
+Content:
+BODY AWARENESS DRILL
+Where we hold stress:
+• Worry → Shoulders
+• Overthinking → Jaw
+• Perfectionism → Hips
+
+AUDIO GUIDE
+Progressive sequence from toes to scalp
+
+Audio: Assets/Audio/PMR.wav
+---
